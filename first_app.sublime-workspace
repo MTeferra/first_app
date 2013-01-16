@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"dow	downto(0) { |n| .. }"
+			],
+			[
+				"sen",
+				"sentences"
+			],
+			[
+				"cla",
+				"cla	class << self .. end"
+			],
+			[
+				"cl",
+				"cla	class BlankSlate .. initialize .. end"
+			],
+			[
+				"co",
+				"Connect"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"sent",
+				"sentence"
+			],
+			[
+				"to",
+				"total_characters_nospaces"
+			],
+			[
+				"line",
+				"line_count"
+			],
+			[
+				"li",
+				"line_count"
+			],
+			[
+				"F",
+				"File	File.open(\"..\") { |file| .. }"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Gemfile",
+			"settings":
+			{
+				"buffer_size": 766,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"prefus",
+				"Preferences: Settings - User"
+			],
+			[
+				"close",
+				"File: Close All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ru",
+				"Set Syntax: Ruby"
+			],
+			[
+				"r c",
+				"Set Syntax: R Console"
+			],
+			[
+				"r",
+				"Set Syntax: R Console"
+			],
+			[
+				"rc",
+				"Set Syntax: R Console"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"ta",
+				"View: Toggle Tabs"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"",
+				"Set Syntax: Ruby"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 241.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/miket/RailsProjects/mydiary/config/application.rb",
+		"/home/miket/RailsProjects/mydiary/app/controllers/application_controller.rb",
+		"/home/miket/RailsProjects/mydiary/config/database.yml",
+		"/home/miket/RailsProjects/mydiary/Gemfile",
+		"/home/miket/RailsProjects/mydiary/db/migrate/20130114223000_add_entries_table.rb",
+		"/home/miket/RailsProjects/mydiary/app/controllers/entries_controller.rb",
+		"/home/miket/RailsProjects/mydiary/app/models/entry.rb",
+		"/home/miket/RailsProjects/mydiary/app/views/entries/index.html.erb",
+		"/home/miket/RailsProjects/mydiary/config/environments/development.rb",
+		"/home/miket/.gemrc",
+		"/home/miket/RailsProjects/mydiary/config/initializers/inflections.rb",
+		"/home/miket/RailsProjects/mydiary/config/initializers/secret_token.rb",
+		"/home/miket/RailsProjects/mydiary/config/initializers/session_store.rb",
+		"/home/miket/RailsProjects/mydiary/config/boot.rb",
+		"/home/miket/RailsProjects/mydiary/config/environment.rb",
+		"/home/miket/RailsProjects/mydiary/app/views/entries/new.html.erb",
+		"/home/miket/RailsProjects/mydiary/app/views/entries/_form.html.erb",
+		"/home/miket/RailsProjects/mydiary/app/helpers/entries_helper.rb",
+		"/home/miket/RailsProjects/mydiary/app/assets/stylesheets/entries.css.scss",
+		"/home/miket/RailsProjects/mydiary/mydiary.sublime-project",
+		"/home/miket/RailsProjects/mydiary/app/helpers/application_helper.rb",
+		"/home/miket/RailsProjects/mydiary/app/views/layouts/application.html.erb",
+		"/home/miket/RubyProjects/Bot/wordplay.rb",
+		"/home/miket/RubyProjects/Bot/test_wordplay.rb",
+		"/home/miket/RubyProjects/Bot/bot_data_to_yaml.rb",
+		"/home/miket/RubyProjects/Bot/bot.rb",
+		"/home/miket/RubyProjects/Bot/basic_client.rb",
+		"/home/miket/RubyProjects/Bot/web_client.rb",
+		"/home/miket/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/miket/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
+		"/home/miket/RubyProjects/requirePath.rb",
+		"/home/miket/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/miket/RubyProjects/Bot/    /home/miket/RubyProjects/Bot/wordplay.rb",
+		"/home/miket/RubyProjects/Bot/    /home/miket/RubyProjects/Bot/test_wordplay.rb",
+		"/home/miket/RubyProjects/bindingExample.rb",
+		"/home/miket/RubyProjects/DynamicClassMethods.rb",
+		"/home/miket/RubyProjects/Test.rb",
+		"/home/miket/RubyProjects/myHttpServer3.rb",
+		"/home/miket/RubyProjects/myHttpServer2.rb",
+		"/home/miket/RubyProjects/myHttpServer.rb",
+		"/home/miket/RubyProjects/string_titleize.rb",
+		"/home/miket/RubyProjects/test_titlize.rb",
+		"/home/miket/RubyProjects/MySQL_Example2.rb",
+		"/home/miket/RubyProjects/	from /home/miket/RubyProjects/MySQL_Example2.rb",
+		"/home/miket/RubyProjects/string_extend/string_extend.gemspec",
+		"/home/miket/RubyProjects/string_extend/test/se_test.rb",
+		"/home/miket/RubyProjects/string_extend/lib/string_extend.rb",
+		"/home/miket/RubyProjects/MySQL_Example.rb",
+		"/home/miket/RubyProjects/SqlLiteExample.rb",
+		"/home/miket/RubyProjects/string_extend/test/testStrExtend.rb",
+		"/usr/lib/ruby/gems/1.9.1/gems/dbi-0.4.5/lib/dbi.rb",
+		"/home/miket/RubyProjects/		Age",
+		"/home/miket/RubyProjects/WebPageDump.rb",
+		"/home/miket/RubyProjects/Dungeon.rb",
+		"/home/miket/RubyProjects/	from /home/miket/RubyProjects/Dungeon.rb",
+		"/home/miket/RubyProjects/analyzer.rb",
+		"/home/miket/RubyProjects/text.txt",
+		"/home/miket/Ruby/Test.rb"
+	],
+	"find":
+	{
+		"height": 53.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Rails",
+			"Application",
+			"mysql",
+			"root",
+			"user",
+			"  user: rousot\n",
+			"user: rousot",
+			"user",
+			"user: root",
+			"mypassword",
+			"db/",
+			"timeout: 5000",
+			"pool: 5",
+			"SQLite",
+			"sqlite3",
+			"execjs",
+			"timeout: 5000",
+			"root",
+			"password:",
+			"timeout",
+			"SQLite",
+			"sqlite3",
+			"best_sentence",
+			"preprocess"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Gemfile",
+					"settings":
+					{
+						"buffer_size": 766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 53.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 244.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"a",
+				"config/application.rb"
+			],
+			[
+				"de",
+				"config/environments/development.rb"
+			],
+			[
+				"initalizers/ses",
+				"config/initializers/session_store.rb"
+			],
+			[
+				"initializers/s",
+				"config/initializers/secret_token.rb"
+			],
+			[
+				"env",
+				"config/environment.rb"
+			],
+			[
+				"entri",
+				"app/controllers/entries_controller.rb"
+			],
+			[
+				"entrih",
+				"app/helpers/entries_helper.rb"
+			],
+			[
+				"entrs",
+				"app/assets/stylesheets/entries.css.scss"
+			],
+			[
+				"d",
+				"config/database.yml"
+			],
+			[
+				"en",
+				"config/environment.rb"
+			],
+			[
+				"my",
+				"/home/miket/RubyProjects/MySQL_Example.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
