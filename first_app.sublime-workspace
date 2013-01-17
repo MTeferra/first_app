@@ -52,10 +52,10 @@
 	"buffers":
 	[
 		{
-			"file": "Gemfile",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 766,
+				"buffer_size": 219,
 				"line_ending": "Unix"
 			}
 		}
@@ -67,16 +67,16 @@
 		"selected_items":
 		[
 			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
 				"prefus",
 				"Preferences: Settings - User"
 			],
 			[
 				"close",
 				"File: Close All"
-			],
-			[
-				"inst",
-				"Package Control: Install Package"
 			],
 			[
 				"ru",
@@ -111,7 +111,7 @@
 				"Set Syntax: Ruby"
 			]
 		],
-		"width": 435.0
+		"width": 516.0
 	},
 	"console":
 	{
@@ -128,6 +128,11 @@
 	},
 	"file_history":
 	[
+		"/home/miket/.config/sublime-text-2/Packages/SideBarGit/SideBarGit.sublime-settings",
+		"/home/miket/.config/sublime-text-2/Packages/User/Git.sublime-settings",
+		"/home/miket/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/miket/.config/sublime-text-2/Packages/User/Package Control.sublime-settings",
+		"/home/miket/rail_projects/first_app/.gitignore",
 		"/home/miket/RailsProjects/mydiary/config/application.rb",
 		"/home/miket/RailsProjects/mydiary/app/controllers/application_controller.rb",
 		"/home/miket/RailsProjects/mydiary/config/database.yml",
@@ -156,7 +161,6 @@
 		"/home/miket/RubyProjects/Bot/bot.rb",
 		"/home/miket/RubyProjects/Bot/basic_client.rb",
 		"/home/miket/RubyProjects/Bot/web_client.rb",
-		"/home/miket/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/miket/.config/sublime-text-2/Packages/User/Ruby.sublime-settings",
 		"/home/miket/RubyProjects/requirePath.rb",
 		"/home/miket/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
@@ -249,23 +253,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Gemfile",
+					"file": "README.md",
 					"settings":
 					{
-						"buffer_size": 766,
+						"buffer_size": 219,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								53,
-								53
+								219,
+								219
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/Ruby on Rails.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
